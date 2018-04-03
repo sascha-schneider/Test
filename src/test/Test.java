@@ -7,6 +7,7 @@ package test;
 
 /**
  *
+ * 
  * @author Sascha Marco Schneider <java@sascha-schneider.de>
  */
 public class Test {
