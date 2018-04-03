@@ -1,6 +1,5 @@
 /*
- * © 1999-2001 Schneider-Coen GbR <schneider-coen.de>
- * © 2001-2018 Sascha Marco Schneider <sparclubmanager.com>
+ * © 2018 Sascha Marco Schneider <java@sascha-schneider.de>
  * All rights reserved. Use is subject to license terms.
  * Alle Rechte vorbehalten. Nutzung unterliegt den Lizenzbedingungen.
  */
@@ -8,7 +7,7 @@ package test;
 
 /**
  *
- * @author Sascha Marco Schneider <java@logistiksascha.de>
+ * @author Sascha Marco Schneider <java@sascha-schneider.de>
  */
 public class Test {
 
